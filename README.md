@@ -11,6 +11,7 @@
 
 1. **Compilar y ejecutar pruebas**
   ```bash
+denro de cd "C:\Users\nombre\Downloads\parcial-2-2026-main\parcial-2-2026-main"
   mvn clean install
   mvn test
   ```
