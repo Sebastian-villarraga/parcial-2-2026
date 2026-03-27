@@ -1,0 +1,15 @@
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\BlueprintsApplication.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\config\OpenApiConfig.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\controllers\BlueprintsAPIController.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\filters\BlueprintsFilter.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\filters\IdentityFilter.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\filters\RedundancyFilter.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\filters\UndersamplingFilter.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\model\ApiResponse.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\model\Blueprint.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\model\Point.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintNotFoundException.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistence.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistenceException.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\persistence\InMemoryBlueprintPersistence.java
+C:\Users\allan\Downloads\parcial-2-2026-main\parcial-2-2026-main\src\main\java\edu\eci\arsw\blueprints\services\BlueprintsServices.java
